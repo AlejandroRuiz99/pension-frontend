@@ -1,0 +1,23 @@
+{
+  "name": "Frontend Bases Cotización",
+  "description": "Frontend Streamlit para API de Bases de Cotización y cálculo de pensiones",
+  "repository": "https://github.com/tu-usuario/frontend-bases",
+  "logo": "https://streamlit.io/images/brand/streamlit-mark-color.png",
+  "keywords": ["python", "streamlit", "pension", "api", "frontend"],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {
+    "API_BASE_URL": {
+      "description": "URL base de la API de backend",
+      "value": "https://pension-bases-api-e707c1384c99.herokuapp.com"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  }
+} 
