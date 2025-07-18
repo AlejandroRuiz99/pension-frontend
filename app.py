@@ -183,7 +183,7 @@ def generate_excel_from_process_result(result_data):
         ]
         
         # Headers para bases revalorizadas
-        headers_revalorizadas = ["Mes/Año", "Base €", "Base Original €", "Índice", "Empresa", "Régimen"]
+        headers_revalorizadas = ["Mes/Año", "Base €", "Base Original €", "Índice", "Empresa", "Régimen", "Días Cotizados"]
         
         # Escribir headers
         for col, header in enumerate(headers_revalorizadas, 1):
@@ -201,12 +201,13 @@ def generate_excel_from_process_result(result_data):
             ws_revalorizadas.cell(row=row, column=4, value=base.get("indice_revalorizacion", 1))
             ws_revalorizadas.cell(row=row, column=5, value=base.get("empresa", ""))
             ws_revalorizadas.cell(row=row, column=6, value=base.get("regimen", ""))
+            ws_revalorizadas.cell(row=row, column=7, value=30)  # Días cotizados
             
             # Aplicar bordes
-            for col in range(1, 7):
+            for col in range(1, 8):
                 ws_revalorizadas.cell(row=row, column=col).border = border
         
-        # Fórmula para suma total
+        # Fórmulas para sumas totales
         if bases_revalorizadas:
             suma_row = len(bases_revalorizadas) + 3
             ws_revalorizadas.cell(row=suma_row, column=1, value="SUMA TOTAL REVALORIZADAS:")
@@ -214,6 +215,29 @@ def generate_excel_from_process_result(result_data):
             ws_revalorizadas.cell(row=suma_row, column=2, value=f"=SUM(B2:B{len(bases_revalorizadas)+1})")
             ws_revalorizadas.cell(row=suma_row, column=2).font = Font(bold=True)
             ws_revalorizadas.cell(row=suma_row, column=2).fill = PatternFill(start_color="E2EFDA", end_color="E2EFDA", fill_type="solid")
+            
+            # Suma de días cotizados totales
+            ws_revalorizadas.cell(row=suma_row, column=6, value="TOTAL DÍAS:")
+            ws_revalorizadas.cell(row=suma_row, column=6).font = Font(bold=True)
+            ws_revalorizadas.cell(row=suma_row, column=7, value=f"=SUM(G2:G{len(bases_revalorizadas)+1})")
+            ws_revalorizadas.cell(row=suma_row, column=7).font = Font(bold=True)
+            ws_revalorizadas.cell(row=suma_row, column=7).fill = PatternFill(start_color="E2EFDA", end_color="E2EFDA", fill_type="solid")
+            
+            # Suma de días cotizados ÚLTIMOS 13 AÑOS (156 meses más recientes)
+            ws_revalorizadas.cell(row=suma_row+1, column=6, value="ÚLTIMOS 13 AÑOS:")
+            ws_revalorizadas.cell(row=suma_row+1, column=6).font = Font(bold=True)
+            
+            # Calcular los últimos 156 meses (13 años × 12 meses)
+            total_bases = len(bases_revalorizadas)
+            if total_bases >= 156:
+                # Sumar solo los 156 más recientes (desde fila 2 hasta fila 157)
+                ws_revalorizadas.cell(row=suma_row+1, column=7, value=f"=SUM(G2:G157)")
+            else:
+                # Si hay menos de 156 bases, sumar todas
+                ws_revalorizadas.cell(row=suma_row+1, column=7, value=f"=SUM(G2:G{total_bases+1})")
+            
+            ws_revalorizadas.cell(row=suma_row+1, column=7).font = Font(bold=True)
+            ws_revalorizadas.cell(row=suma_row+1, column=7).fill = PatternFill(start_color="FFE6CC", end_color="FFE6CC", fill_type="solid")
         
         # Ajustar ancho de columnas
         for column in ws_revalorizadas.columns:
@@ -238,7 +262,7 @@ def generate_excel_from_process_result(result_data):
         ]
         
         # Headers para bases no revalorizadas
-        headers_no_revalorizadas = ["Mes/Año", "Base €", "Empresa", "Régimen"]
+        headers_no_revalorizadas = ["Mes/Año", "Base €", "Empresa", "Régimen", "Días Cotizados"]
         
         # Escribir headers
         for col, header in enumerate(headers_no_revalorizadas, 1):
@@ -254,12 +278,13 @@ def generate_excel_from_process_result(result_data):
             ws_no_revalorizadas.cell(row=row, column=2, value=base.get("base", 0))
             ws_no_revalorizadas.cell(row=row, column=3, value=base.get("empresa", ""))
             ws_no_revalorizadas.cell(row=row, column=4, value=base.get("regimen", ""))
+            ws_no_revalorizadas.cell(row=row, column=5, value=30)  # Días cotizados
             
             # Aplicar bordes
-            for col in range(1, 5):
+            for col in range(1, 6):
                 ws_no_revalorizadas.cell(row=row, column=col).border = border
         
-        # Fórmula para suma total
+        # Fórmulas para sumas totales
         if bases_no_revalorizadas:
             suma_row = len(bases_no_revalorizadas) + 3
             ws_no_revalorizadas.cell(row=suma_row, column=1, value="SUMA TOTAL NO REVALORIZADAS:")
@@ -267,6 +292,13 @@ def generate_excel_from_process_result(result_data):
             ws_no_revalorizadas.cell(row=suma_row, column=2, value=f"=SUM(B2:B{len(bases_no_revalorizadas)+1})")
             ws_no_revalorizadas.cell(row=suma_row, column=2).font = Font(bold=True)
             ws_no_revalorizadas.cell(row=suma_row, column=2).fill = PatternFill(start_color="FFF2CC", end_color="FFF2CC", fill_type="solid")
+            
+            # Suma de días cotizados
+            ws_no_revalorizadas.cell(row=suma_row, column=4, value="TOTAL DÍAS:")
+            ws_no_revalorizadas.cell(row=suma_row, column=4).font = Font(bold=True)
+            ws_no_revalorizadas.cell(row=suma_row, column=5, value=f"=SUM(E2:E{len(bases_no_revalorizadas)+1})")
+            ws_no_revalorizadas.cell(row=suma_row, column=5).font = Font(bold=True)
+            ws_no_revalorizadas.cell(row=suma_row, column=5).fill = PatternFill(start_color="FFF2CC", end_color="FFF2CC", fill_type="solid")
         
         # Ajustar ancho de columnas
         for column in ws_no_revalorizadas.columns:
@@ -330,33 +362,74 @@ def generate_excel_from_process_result(result_data):
         ws_resumen.cell(row=row_counter, column=2, value=estadisticas.get("bases_no_revalorizadas", 0))
         row_counter += 2
         
-        # Cálculos con fórmulas dinámicas
-        ws_resumen.cell(row=row_counter, column=1, value="CÁLCULOS DINÁMICOS")
+        # Cálculos - usar valores calculados para evitar problemas de fórmulas
+        ws_resumen.cell(row=row_counter, column=1, value="CÁLCULOS DE SUMAS")
         ws_resumen.cell(row=row_counter, column=1).font = Font(bold=True)
         ws_resumen.cell(row=row_counter, column=1).fill = PatternFill(start_color="E1D5E7", end_color="E1D5E7", fill_type="solid")
         row_counter += 1
         
+        # Crear referencias dinámicas a las sumas de las otras hojas
         ws_resumen.cell(row=row_counter, column=1, value="Suma Bases Revalorizadas:")
-        # Referencia a la suma de la pestaña de revalorizadas
         if bases_revalorizadas:
-            ws_resumen.cell(row=row_counter, column=2, value=f"='Bases Revalorizadas'.B{len(bases_revalorizadas)+3}")
+            # Referencias dinámicas a la suma total de la hoja "Bases Revalorizadas"
+            suma_rev_row_destino = len(bases_revalorizadas) + 3
+            ws_resumen.cell(row=row_counter, column=2, value=f"='Bases Revalorizadas'!B{suma_rev_row_destino}")
         else:
             ws_resumen.cell(row=row_counter, column=2, value=0)
+        suma_rev_row = row_counter  # Guardar referencia para fórmula
         row_counter += 1
         
         ws_resumen.cell(row=row_counter, column=1, value="Suma Bases No Revalorizadas:")
-        # Referencia a la suma de la pestaña de no revalorizadas
         if bases_no_revalorizadas:
-            ws_resumen.cell(row=row_counter, column=2, value=f"='Bases No Revalorizadas'.B{len(bases_no_revalorizadas)+3}")
+            # Referencias dinámicas a la suma total de la hoja "Bases No Revalorizadas"
+            suma_no_rev_row_destino = len(bases_no_revalorizadas) + 3
+            ws_resumen.cell(row=row_counter, column=2, value=f"='Bases No Revalorizadas'!B{suma_no_rev_row_destino}")
         else:
             ws_resumen.cell(row=row_counter, column=2, value=0)
+        suma_no_rev_row = row_counter  # Guardar referencia para fórmula
         row_counter += 1
         
         ws_resumen.cell(row=row_counter, column=1, value="SUMA TOTAL:")
-        ws_resumen.cell(row=row_counter, column=2, value=f"=B{row_counter-1}+B{row_counter}")
+        ws_resumen.cell(row=row_counter, column=2, value=f"=B{suma_rev_row}+B{suma_no_rev_row}")
         ws_resumen.cell(row=row_counter, column=1).font = Font(bold=True)
         ws_resumen.cell(row=row_counter, column=2).font = Font(bold=True)
         ws_resumen.cell(row=row_counter, column=2).fill = PatternFill(start_color="C9DAF8", end_color="C9DAF8", fill_type="solid")
+        suma_total_row = row_counter  # Guardar referencia para la base reguladora
+        row_counter += 2
+        
+        # DÍAS COTIZADOS ÚLTIMOS 15 AÑOS
+        ws_resumen.cell(row=row_counter, column=1, value="DÍAS COTIZADOS ÚLTIMOS 15 AÑOS:")
+        
+        # Nueva lógica: Todas las no revalorizadas + últimos 13 años de revalorizadas
+        if bases_revalorizadas and bases_no_revalorizadas:
+            # Fórmula dinámica: suma de no revalorizadas + últimos 13 años de revalorizadas
+            suma_no_rev_row = len(bases_no_revalorizadas) + 3
+            suma_13_anos_row = len(bases_revalorizadas) + 4  # +4 porque está en la segunda fila de totales
+            formula_15_anos = f"='Bases No Revalorizadas'!E{suma_no_rev_row}+'Bases Revalorizadas'!G{suma_13_anos_row}"
+            ws_resumen.cell(row=row_counter, column=2, value=formula_15_anos)
+            ws_resumen.cell(row=row_counter, column=3, value="(2 años no rev + 13 años rev)")
+            
+        elif bases_no_revalorizadas:
+            # Solo no revalorizadas
+            suma_no_rev_row = len(bases_no_revalorizadas) + 3
+            ws_resumen.cell(row=row_counter, column=2, value=f"='Bases No Revalorizadas'!E{suma_no_rev_row}")
+            ws_resumen.cell(row=row_counter, column=3, value="(solo no revalorizadas)")
+            
+        elif bases_revalorizadas:
+            # Solo revalorizadas - tomar últimos 13 años
+            suma_13_anos_row = len(bases_revalorizadas) + 4
+            ws_resumen.cell(row=row_counter, column=2, value=f"='Bases Revalorizadas'!G{suma_13_anos_row}")
+            ws_resumen.cell(row=row_counter, column=3, value="(solo últimos 13 años rev)")
+            
+        else:
+            # Sin datos
+            ws_resumen.cell(row=row_counter, column=2, value=0)
+            ws_resumen.cell(row=row_counter, column=3, value="(sin datos)")
+            
+        ws_resumen.cell(row=row_counter, column=1).font = Font(bold=True)
+        ws_resumen.cell(row=row_counter, column=2).font = Font(bold=True)
+        ws_resumen.cell(row=row_counter, column=2).fill = PatternFill(start_color="D5E8D4", end_color="D5E8D4", fill_type="solid")
+        dias_15_anos_row = row_counter  # Guardar referencia si se necesita
         row_counter += 2
         
         # Parámetros de cómputo
@@ -381,9 +454,8 @@ def generate_excel_from_process_result(result_data):
         
         # BASE REGULADORA FINAL
         ws_resumen.cell(row=row_counter, column=1, value="BASE REGULADORA:")
-        suma_total_cell = f"B{row_counter-7}"  # Referencia a la suma total
-        divisor_cell = f"B{row_counter-1}"     # Referencia al divisor
-        ws_resumen.cell(row=row_counter, column=2, value=f"={suma_total_cell}/{divisor_cell}")
+        divisor_cell = f"B{row_counter-2}"     # Referencia al divisor (dos filas arriba)
+        ws_resumen.cell(row=row_counter, column=2, value=f"=B{suma_total_row}/{divisor_cell}")
         
         # Estilo especial para la base reguladora
         ws_resumen.cell(row=row_counter, column=1).font = Font(bold=True, size=12)
@@ -396,6 +468,7 @@ def generate_excel_from_process_result(result_data):
         # Ajustar ancho de columnas del resumen
         ws_resumen.column_dimensions['A'].width = 30
         ws_resumen.column_dimensions['B'].width = 20
+        ws_resumen.column_dimensions['C'].width = 25
         
         # Crear buffer en memoria
         excel_buffer = io.BytesIO()
