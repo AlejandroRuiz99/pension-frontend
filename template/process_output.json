@@ -1,0 +1,2790 @@
+{
+  "success": true,
+  "message": "PDF procesado exitosamente: 397 bases extraídas y simulación completada",
+  "bases_procesadas": [
+    {
+      "mes_anyo": "01/2026",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "12/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "11/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "10/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "09/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "08/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "07/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "06/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "05/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "04/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "03/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "02/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "01/2025",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "12/2024",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "11/2024",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "10/2024",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "09/2024",
+      "base": 1653.75,
+      "empresa": "SIMULADA",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "08/2024",
+      "base": 1653.75,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "07/2024",
+      "base": 1653.75,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "06/2024",
+      "base": 1653.75,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "05/2024",
+      "base": 1653.75,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "04/2024",
+      "base": 1653.75,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "03/2024",
+      "base": 1653.75,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "02/2024",
+      "base": 1653.75,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "no_revalorizado"
+    },
+    {
+      "mes_anyo": "01/2024",
+      "base": 1653.75,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1653.75,
+      "indice_revalorizacion": 1
+    },
+    {
+      "mes_anyo": "12/2023",
+      "base": 1575,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1
+    },
+    {
+      "mes_anyo": "11/2023",
+      "base": 1575,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1
+    },
+    {
+      "mes_anyo": "10/2023",
+      "base": 1575,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1
+    },
+    {
+      "mes_anyo": "09/2023",
+      "base": 1575,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1
+    },
+    {
+      "mes_anyo": "08/2023",
+      "base": 1577.21,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1.0014052
+    },
+    {
+      "mes_anyo": "07/2023",
+      "base": 1585.69,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1.0067884
+    },
+    {
+      "mes_anyo": "06/2023",
+      "base": 1588.37,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1.008491
+    },
+    {
+      "mes_anyo": "05/2023",
+      "base": 1597.42,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1.0142322
+    },
+    {
+      "mes_anyo": "04/2023",
+      "base": 1596.64,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1.0137422
+    },
+    {
+      "mes_anyo": "03/2023",
+      "base": 1606.14,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1.019773
+    },
+    {
+      "mes_anyo": "02/2023",
+      "base": 1612.06,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1.0235314
+    },
+    {
+      "mes_anyo": "01/2023",
+      "base": 1627.28,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1575,
+      "indice_revalorizacion": 1.033191
+    },
+    {
+      "mes_anyo": "12/2022",
+      "base": 1503.62,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.0310193
+    },
+    {
+      "mes_anyo": "11/2022",
+      "base": 1505.88,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.0325696
+    },
+    {
+      "mes_anyo": "10/2022",
+      "base": 1504.07,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.031329
+    },
+    {
+      "mes_anyo": "09/2022",
+      "base": 1509.12,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.0347951
+    },
+    {
+      "mes_anyo": "08/2022",
+      "base": 1498.63,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.0275971
+    },
+    {
+      "mes_anyo": "07/2022",
+      "base": 1502.43,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.0302038
+    },
+    {
+      "mes_anyo": "06/2022",
+      "base": 1498.6,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.0275785
+    },
+    {
+      "mes_anyo": "05/2022",
+      "base": 1526.35,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.0466091
+    },
+    {
+      "mes_anyo": "04/2022",
+      "base": 1538.96,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.0552549
+    },
+    {
+      "mes_anyo": "03/2022",
+      "base": 1536.23,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.0533811
+    },
+    {
+      "mes_anyo": "02/2022",
+      "base": 1582.77,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.0852944
+    },
+    {
+      "mes_anyo": "01/2022",
+      "base": 1595.55,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1458.38,
+      "indice_revalorizacion": 1.094055
+    },
+    {
+      "mes_anyo": "12/2021",
+      "base": 1533.86,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1407.38,
+      "indice_revalorizacion": 1.0898667
+    },
+    {
+      "mes_anyo": "11/2021",
+      "base": 1552.18,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1407.38,
+      "indice_revalorizacion": 1.102883
+    },
+    {
+      "mes_anyo": "10/2021",
+      "base": 1556.92,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1407.38,
+      "indice_revalorizacion": 1.1062533
+    },
+    {
+      "mes_anyo": "09/2021",
+      "base": 1585.56,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1407.38,
+      "indice_revalorizacion": 1.126602
+    },
+    {
+      "mes_anyo": "08/2021",
+      "base": 1491,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.1359995
+    },
+    {
+      "mes_anyo": "07/2021",
+      "base": 1497.77,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.1411594
+    },
+    {
+      "mes_anyo": "06/2021",
+      "base": 1486.48,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.132559
+    },
+    {
+      "mes_anyo": "05/2021",
+      "base": 1493.56,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.1379504
+    },
+    {
+      "mes_anyo": "04/2021",
+      "base": 1500.6,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.1433126
+    },
+    {
+      "mes_anyo": "03/2021",
+      "base": 1518.31,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.156806
+    },
+    {
+      "mes_anyo": "02/2021",
+      "base": 1533.04,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.1680273
+    },
+    {
+      "mes_anyo": "01/2021",
+      "base": 1524,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.1611448
+    },
+    {
+      "mes_anyo": "12/2020",
+      "base": 1609.07,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1612519
+    },
+    {
+      "mes_anyo": "11/2020",
+      "base": 1612.49,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1637207
+    },
+    {
+      "mes_anyo": "10/2020",
+      "base": 1615.12,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1656242
+    },
+    {
+      "mes_anyo": "09/2020",
+      "base": 1623.61,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1717476
+    },
+    {
+      "mes_anyo": "08/2020",
+      "base": 1626.05,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1735073
+    },
+    {
+      "mes_anyo": "07/2020",
+      "base": 1626.79,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1740423
+    },
+    {
+      "mes_anyo": "06/2020",
+      "base": 1612.19,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1635056
+    },
+    {
+      "mes_anyo": "05/2020",
+      "base": 1619.62,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1688708
+    },
+    {
+      "mes_anyo": "04/2020",
+      "base": 1619.52,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1687984
+    },
+    {
+      "mes_anyo": "03/2020",
+      "base": 1624.41,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1723295
+    },
+    {
+      "mes_anyo": "02/2020",
+      "base": 1618.19,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1678347
+    },
+    {
+      "mes_anyo": "01/2020",
+      "base": 1616.27,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1385.63,
+      "indice_revalorizacion": 1.1664521
+    },
+    {
+      "mes_anyo": "12/2019",
+      "base": 1516.03,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.1550725
+    },
+    {
+      "mes_anyo": "11/2019",
+      "base": 1514.94,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.1542371
+    },
+    {
+      "mes_anyo": "10/2019",
+      "base": 1517.5,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.1561922
+    },
+    {
+      "mes_anyo": "09/2019",
+      "base": 1532.23,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.1674136
+    },
+    {
+      "mes_anyo": "08/2019",
+      "base": 1532.23,
+      "empresa": "MAYORES 52/55 AÑOS.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1312.5,
+      "indice_revalorizacion": 1.1674136
+    },
+    {
+      "mes_anyo": "07/2019",
+      "base": 1361.23,
+      "empresa": "AJUNTAMENT DE CALAFELL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1166.67,
+      "indice_revalorizacion": 1.1667644
+    },
+    {
+      "mes_anyo": "06/2019",
+      "base": 1352.79,
+      "empresa": "AJUNTAMENT DE CALAFELL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1166.67,
+      "indice_revalorizacion": 1.1595288
+    },
+    {
+      "mes_anyo": "05/2019",
+      "base": 1351.2,
+      "empresa": "AJUNTAMENT DE CALAFELL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1166.67,
+      "indice_revalorizacion": 1.1581658
+    },
+    {
+      "mes_anyo": "04/2019",
+      "base": 1353.84,
+      "empresa": "AJUNTAMENT DE CALAFELL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1166.68,
+      "indice_revalorizacion": 1.1604194
+    },
+    {
+      "mes_anyo": "03/2019",
+      "base": 1367.48,
+      "empresa": "AJUNTAMENT DE CALAFELL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1166.67,
+      "indice_revalorizacion": 1.1721234
+    },
+    {
+      "mes_anyo": "02/2019",
+      "base": 1372.44,
+      "empresa": "AJUNTAMENT DE CALAFELL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1166.67,
+      "indice_revalorizacion": 1.1763704
+    },
+    {
+      "mes_anyo": "01/2019",
+      "base": 45.86,
+      "empresa": "AJUNTAMENT DE CALAFELL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 38.89,
+      "indice_revalorizacion": 1.1792475
+    },
+    {
+      "mes_anyo": "12/2018",
+      "base": 1182.6,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.1641751
+    },
+    {
+      "mes_anyo": "11/2018",
+      "base": 1177.29,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.1589477
+    },
+    {
+      "mes_anyo": "10/2018",
+      "base": 1176.01,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.1576807
+    },
+    {
+      "mes_anyo": "09/2018",
+      "base": 1186.88,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.1683887
+    },
+    {
+      "mes_anyo": "08/2018",
+      "base": 1189.78,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.1712389
+    },
+    {
+      "mes_anyo": "07/2018",
+      "base": 1191.48,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.172912
+    },
+    {
+      "mes_anyo": "06/2018",
+      "base": 1182.93,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.1644981
+    },
+    {
+      "mes_anyo": "05/2018",
+      "base": 1186.03,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.1675459
+    },
+    {
+      "mes_anyo": "04/2018",
+      "base": 1196.72,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.1780705
+    },
+    {
+      "mes_anyo": "03/2018",
+      "base": 1206.6,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.187802
+    },
+    {
+      "mes_anyo": "02/2018",
+      "base": 1208.02,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.1891982
+    },
+    {
+      "mes_anyo": "01/2018",
+      "base": 1209.65,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 1015.83,
+      "indice_revalorizacion": 1.1907979
+    },
+    {
+      "mes_anyo": "12/2017",
+      "base": 1041.79,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.1779602
+    },
+    {
+      "mes_anyo": "11/2017",
+      "base": 1042.25,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.1784871
+    },
+    {
+      "mes_anyo": "10/2017",
+      "base": 1047.01,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.1838679
+    },
+    {
+      "mes_anyo": "09/2017",
+      "base": 1056.67,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.1947909
+    },
+    {
+      "mes_anyo": "08/2017",
+      "base": 1058.51,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.1968733
+    },
+    {
+      "mes_anyo": "07/2017",
+      "base": 1060.62,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.1992548
+    },
+    {
+      "mes_anyo": "06/2017",
+      "base": 1053.31,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.1909857
+    },
+    {
+      "mes_anyo": "05/2017",
+      "base": 1053.76,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.1914992
+    },
+    {
+      "mes_anyo": "04/2017",
+      "base": 1053.13,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.1907854
+    },
+    {
+      "mes_anyo": "03/2017",
+      "base": 1063.24,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.2022196
+    },
+    {
+      "mes_anyo": "02/2017",
+      "base": 1063.02,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.2019645
+    },
+    {
+      "mes_anyo": "01/2017",
+      "base": 1059.2,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 884.4,
+      "indice_revalorizacion": 1.197645
+    },
+    {
+      "mes_anyo": "12/2016",
+      "base": 1022.64,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.1910608
+    },
+    {
+      "mes_anyo": "11/2016",
+      "base": 1028.7,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.1981136
+    },
+    {
+      "mes_anyo": "10/2016",
+      "base": 1032.43,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.202462
+    },
+    {
+      "mes_anyo": "09/2016",
+      "base": 1044.24,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.2162078
+    },
+    {
+      "mes_anyo": "08/2016",
+      "base": 1044.28,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.21626
+    },
+    {
+      "mes_anyo": "07/2016",
+      "base": 1045.63,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.2178286
+    },
+    {
+      "mes_anyo": "06/2016",
+      "base": 1038.02,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.2089668
+    },
+    {
+      "mes_anyo": "05/2016",
+      "base": 1168.01,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.3603707
+    },
+    {
+      "mes_anyo": "04/2016",
+      "base": 1048.51,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.2211887
+    },
+    {
+      "mes_anyo": "03/2016",
+      "base": 1055.86,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.2297507
+    },
+    {
+      "mes_anyo": "02/2016",
+      "base": 1062.63,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.2376354
+    },
+    {
+      "mes_anyo": "01/2016",
+      "base": 1058.89,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 858.6,
+      "indice_revalorizacion": 1.2332709
+    },
+    {
+      "mes_anyo": "12/2015",
+      "base": 914.56,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.2097413
+    },
+    {
+      "mes_anyo": "11/2015",
+      "base": 911.9,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.2062126
+    },
+    {
+      "mes_anyo": "10/2015",
+      "base": 915.23,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.2106202
+    },
+    {
+      "mes_anyo": "09/2015",
+      "base": 921.09,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.2183786
+    },
+    {
+      "mes_anyo": "08/2015",
+      "base": 918.26,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.2146302
+    },
+    {
+      "mes_anyo": "07/2015",
+      "base": 915.21,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.2105943
+    },
+    {
+      "mes_anyo": "06/2015",
+      "base": 906.71,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.1993564
+    },
+    {
+      "mes_anyo": "05/2015",
+      "base": 909.14,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.2025641
+    },
+    {
+      "mes_anyo": "04/2015",
+      "base": 913.48,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.2083093
+    },
+    {
+      "mes_anyo": "03/2015",
+      "base": 921.88,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.2194145
+    },
+    {
+      "mes_anyo": "02/2015",
+      "base": 927.76,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.2271934
+    },
+    {
+      "mes_anyo": "01/2015",
+      "base": 929.67,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 756,
+      "indice_revalorizacion": 1.229724
+    },
+    {
+      "mes_anyo": "12/2014",
+      "base": 457.37,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2099609
+    },
+    {
+      "mes_anyo": "11/2014",
+      "base": 454.7,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2029088
+    },
+    {
+      "mes_anyo": "10/2014",
+      "base": 454.38,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2020666
+    },
+    {
+      "mes_anyo": "09/2014",
+      "base": 456.5,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2076654
+    },
+    {
+      "mes_anyo": "08/2014",
+      "base": 457.19,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2095088
+    },
+    {
+      "mes_anyo": "07/2014",
+      "base": 457.92,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2114227
+    },
+    {
+      "mes_anyo": "06/2014",
+      "base": 453.61,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2000296
+    },
+    {
+      "mes_anyo": "05/2014",
+      "base": 453.74,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2003601
+    },
+    {
+      "mes_anyo": "04/2014",
+      "base": 453.84,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.20064
+    },
+    {
+      "mes_anyo": "03/2014",
+      "base": 457.88,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2113191
+    },
+    {
+      "mes_anyo": "02/2014",
+      "base": 458.9,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2140186
+    },
+    {
+      "mes_anyo": "01/2014",
+      "base": 458.7,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2134985
+    },
+    {
+      "mes_anyo": "12/2013",
+      "base": 452.6,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.1973539
+    },
+    {
+      "mes_anyo": "11/2013",
+      "base": 453.01,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.1984304
+    },
+    {
+      "mes_anyo": "10/2013",
+      "base": 453.95,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2009199
+    },
+    {
+      "mes_anyo": "09/2013",
+      "base": 455.79,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2058019
+    },
+    {
+      "mes_anyo": "08/2013",
+      "base": 454.94,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2035477
+    },
+    {
+      "mes_anyo": "07/2013",
+      "base": 456.36,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2072922
+    },
+    {
+      "mes_anyo": "06/2013",
+      "base": 454,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2010599
+    },
+    {
+      "mes_anyo": "05/2013",
+      "base": 454.67,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2028322
+    },
+    {
+      "mes_anyo": "04/2013",
+      "base": 455.51,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2050453
+    },
+    {
+      "mes_anyo": "03/2013",
+      "base": 457.21,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2095475
+    },
+    {
+      "mes_anyo": "02/2013",
+      "base": 458.82,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2138105
+    },
+    {
+      "mes_anyo": "01/2013",
+      "base": 459.61,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 378,
+      "indice_revalorizacion": 1.2159076
+    },
+    {
+      "mes_anyo": "12/2012",
+      "base": 449.06,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 374.1,
+      "indice_revalorizacion": 1.2003729
+    },
+    {
+      "mes_anyo": "11/2012",
+      "base": 449.37,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 374.1,
+      "indice_revalorizacion": 1.2012127
+    },
+    {
+      "mes_anyo": "10/2012",
+      "base": 448.82,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 374.1,
+      "indice_revalorizacion": 1.1997247
+    },
+    {
+      "mes_anyo": "09/2012",
+      "base": 452.63,
+      "empresa": "LAGUNA",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 374.1,
+      "indice_revalorizacion": 1.2099221
+    },
+    {
+      "mes_anyo": "08/2012",
+      "base": 670.4,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 548.68,
+      "indice_revalorizacion": 1.221834
+    },
+    {
+      "mes_anyo": "07/2012",
+      "base": 919.32,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2287105
+    },
+    {
+      "mes_anyo": "06/2012",
+      "base": 917.17,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2258392
+    },
+    {
+      "mes_anyo": "05/2012",
+      "base": 915.46,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2235492
+    },
+    {
+      "mes_anyo": "04/2012",
+      "base": 914.11,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2217418
+    },
+    {
+      "mes_anyo": "03/2012",
+      "base": 926.95,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2389074
+    },
+    {
+      "mes_anyo": "02/2012",
+      "base": 933.18,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2472398
+    },
+    {
+      "mes_anyo": "01/2012",
+      "base": 934.15,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2485317
+    },
+    {
+      "mes_anyo": "12/2011",
+      "base": 923.88,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.234803
+    },
+    {
+      "mes_anyo": "11/2011",
+      "base": 925.08,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2364064
+    },
+    {
+      "mes_anyo": "10/2011",
+      "base": 928.83,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2414186
+    },
+    {
+      "mes_anyo": "09/2011",
+      "base": 936.15,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2512063
+    },
+    {
+      "mes_anyo": "08/2011",
+      "base": 938.44,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2542673
+    },
+    {
+      "mes_anyo": "07/2011",
+      "base": 939.61,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2558242
+    },
+    {
+      "mes_anyo": "06/2011",
+      "base": 934.56,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2490822
+    },
+    {
+      "mes_anyo": "05/2011",
+      "base": 933.25,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2473222
+    },
+    {
+      "mes_anyo": "04/2011",
+      "base": 932.94,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2469104
+    },
+    {
+      "mes_anyo": "03/2011",
+      "base": 944.55,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2624284
+    },
+    {
+      "mes_anyo": "02/2011",
+      "base": 951.61,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.271866
+    },
+    {
+      "mes_anyo": "01/2011",
+      "base": 952.82,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 748.2,
+      "indice_revalorizacion": 1.2734813
+    },
+    {
+      "mes_anyo": "12/2010",
+      "base": 934.09,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.2641608
+    },
+    {
+      "mes_anyo": "11/2010",
+      "base": 939.82,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.2719231
+    },
+    {
+      "mes_anyo": "10/2010",
+      "base": 944.93,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.278828
+    },
+    {
+      "mes_anyo": "09/2010",
+      "base": 953.56,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.2905092
+    },
+    {
+      "mes_anyo": "08/2010",
+      "base": 954.22,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.2914064
+    },
+    {
+      "mes_anyo": "07/2010",
+      "base": 956.63,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.2946674
+    },
+    {
+      "mes_anyo": "06/2010",
+      "base": 952.34,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.2888651
+    },
+    {
+      "mes_anyo": "05/2010",
+      "base": 954.05,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.2911709
+    },
+    {
+      "mes_anyo": "04/2010",
+      "base": 956.16,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.2940316
+    },
+    {
+      "mes_anyo": "03/2010",
+      "base": 966.35,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.3078174
+    },
+    {
+      "mes_anyo": "02/2010",
+      "base": 973.52,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.3175195
+    },
+    {
+      "mes_anyo": "01/2010",
+      "base": 971.74,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 738.9,
+      "indice_revalorizacion": 1.3151187
+    },
+    {
+      "mes_anyo": "12/2009",
+      "base": 947.93,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.3019268
+    },
+    {
+      "mes_anyo": "11/2009",
+      "base": 947.69,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.3015978
+    },
+    {
+      "mes_anyo": "10/2009",
+      "base": 952.83,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.3086482
+    },
+    {
+      "mes_anyo": "09/2009",
+      "base": 959.62,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.3179793
+    },
+    {
+      "mes_anyo": "08/2009",
+      "base": 957.36,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.3148745
+    },
+    {
+      "mes_anyo": "07/2009",
+      "base": 960.7,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.319468
+    },
+    {
+      "mes_anyo": "06/2009",
+      "base": 952.5,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.3081949
+    },
+    {
+      "mes_anyo": "05/2009",
+      "base": 956.69,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.3139596
+    },
+    {
+      "mes_anyo": "04/2009",
+      "base": 956.36,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.3135027
+    },
+    {
+      "mes_anyo": "03/2009",
+      "base": 965.7,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.3263256
+    },
+    {
+      "mes_anyo": "02/2009",
+      "base": 967.28,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.3285027
+    },
+    {
+      "mes_anyo": "01/2009",
+      "base": 967.38,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 728.1,
+      "indice_revalorizacion": 1.3286429
+    },
+    {
+      "mes_anyo": "12/2008",
+      "base": 918.46,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 699.9,
+      "indice_revalorizacion": 1.3122705
+    },
+    {
+      "mes_anyo": "11/2008",
+      "base": 913.75,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 699.9,
+      "indice_revalorizacion": 1.3055421
+    },
+    {
+      "mes_anyo": "10/2008",
+      "base": 909.87,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 699.9,
+      "indice_revalorizacion": 1.3
+    },
+    {
+      "mes_anyo": "09/2008",
+      "base": 913,
+      "empresa": "CONVENIO ESPECIAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 699.9,
+      "indice_revalorizacion": 1.3044749
+    },
+    {
+      "mes_anyo": "08/2008",
+      "base": 2762.37,
+      "empresa": "PLURIACTIVIDAD_2_EMPRESAS",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "pluriactividad": {
+        "es_pluriactividad": true,
+        "bases_individuales": [
+          {
+            "mes_anyo": "08/2008",
+            "base": 233.3,
+            "empresa": "CONVENIO ESPECIAL",
+            "regimen": "GENERAL",
+            "metadatos_pluriactividad": null
+          },
+          {
+            "mes_anyo": "08/2008",
+            "base": 1884.75,
+            "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+            "regimen": "GENERAL",
+            "metadatos_pluriactividad": null
+          }
+        ],
+        "base_bruta": 2118.05,
+        "tope_aplicado": "ninguno",
+        "empresas_detalle": [
+          "CONVENIO ESPECIAL",
+          "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL"
+        ]
+      },
+      "base_original": 2118.05,
+      "indice_revalorizacion": 1.3042046
+    },
+    {
+      "mes_anyo": "07/2008",
+      "base": 3504.03,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3014035
+    },
+    {
+      "mes_anyo": "06/2008",
+      "base": 3487.21,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.2951557
+    },
+    {
+      "mes_anyo": "05/2008",
+      "base": 3507.29,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3026153
+    },
+    {
+      "mes_anyo": "04/2008",
+      "base": 3530.96,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3114048
+    },
+    {
+      "mes_anyo": "03/2008",
+      "base": 3568.96,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3255188
+    },
+    {
+      "mes_anyo": "02/2008",
+      "base": 3600.63,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3372831
+    },
+    {
+      "mes_anyo": "01/2008",
+      "base": 3606.25,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3393697
+    },
+    {
+      "mes_anyo": "12/2007",
+      "base": 3583.93,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3310778
+    },
+    {
+      "mes_anyo": "11/2007",
+      "base": 3598.94,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3366521
+    },
+    {
+      "mes_anyo": "10/2007",
+      "base": 3624.72,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3462283
+    },
+    {
+      "mes_anyo": "09/2007",
+      "base": 3671.7,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3636779
+    },
+    {
+      "mes_anyo": "08/2007",
+      "base": 3683.76,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3681566
+    },
+    {
+      "mes_anyo": "07/2007",
+      "base": 3688.84,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3700425
+    },
+    {
+      "mes_anyo": "06/2007",
+      "base": 3661.96,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3600604
+    },
+    {
+      "mes_anyo": "05/2007",
+      "base": 3668.7,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3625628
+    },
+    {
+      "mes_anyo": "04/2007",
+      "base": 3678.79,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3663089
+    },
+    {
+      "mes_anyo": "03/2007",
+      "base": 3729.61,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3851833
+    },
+    {
+      "mes_anyo": "02/2007",
+      "base": 3757.91,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3956937
+    },
+    {
+      "mes_anyo": "01/2007",
+      "base": 3760.45,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3966399
+    },
+    {
+      "mes_anyo": "12/2006",
+      "base": 3735.18,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3872523
+    },
+    {
+      "mes_anyo": "11/2006",
+      "base": 3745.4,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3910502
+    },
+    {
+      "mes_anyo": "10/2006",
+      "base": 3754.67,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.3944913
+    },
+    {
+      "mes_anyo": "09/2006",
+      "base": 3770.07,
+      "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.5,
+      "indice_revalorizacion": 1.4002125
+    },
+    {
+      "mes_anyo": "08/2006",
+      "base": 3511.7,
+      "empresa": "PLURIACTIVIDAD_2_EMPRESAS",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "pluriactividad": {
+        "es_pluriactividad": true,
+        "bases_individuales": [
+          {
+            "mes_anyo": "08/2006",
+            "base": 807.75,
+            "empresa": "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+            "regimen": "GENERAL",
+            "metadatos_pluriactividad": null
+          },
+          {
+            "mes_anyo": "08/2006",
+            "base": 1704.35,
+            "empresa": "PROCTER & GAMBLE MATARO S.L.",
+            "regimen": "GENERAL",
+            "metadatos_pluriactividad": null
+          }
+        ],
+        "base_bruta": 2512.1,
+        "tope_aplicado": "ninguno",
+        "empresas_detalle": [
+          "PRESTACION DESEMPLEO.EXTINCION.TIEMPO TOTAL",
+          "PROCTER & GAMBLE MATARO S.L."
+        ]
+      },
+      "base_original": 2512.1,
+      "indice_revalorizacion": 1.3979149
+    },
+    {
+      "mes_anyo": "07/2006",
+      "base": 3844.98,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2744.91,
+      "indice_revalorizacion": 1.4007664
+    },
+    {
+      "mes_anyo": "06/2006",
+      "base": 3822.11,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2744.91,
+      "indice_revalorizacion": 1.3924349
+    },
+    {
+      "mes_anyo": "05/2006",
+      "base": 3827.89,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2744.91,
+      "indice_revalorizacion": 1.3945428
+    },
+    {
+      "mes_anyo": "04/2006",
+      "base": 3991.78,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2852.14,
+      "indice_revalorizacion": 1.3995726
+    },
+    {
+      "mes_anyo": "03/2006",
+      "base": 4091.55,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2882.77,
+      "indice_revalorizacion": 1.4193128
+    },
+    {
+      "mes_anyo": "02/2006",
+      "base": 3923.46,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2744.91,
+      "indice_revalorizacion": 1.4293571
+    },
+    {
+      "mes_anyo": "01/2006",
+      "base": 4143.83,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2897.7,
+      "indice_revalorizacion": 1.4300426
+    },
+    {
+      "mes_anyo": "12/2005",
+      "base": 3948.94,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2772.67,
+      "indice_revalorizacion": 1.4242367
+    },
+    {
+      "mes_anyo": "11/2005",
+      "base": 4015.58,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2813.4,
+      "indice_revalorizacion": 1.4273045
+    },
+    {
+      "mes_anyo": "10/2005",
+      "base": 3939.08,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2755.63,
+      "indice_revalorizacion": 1.4294653
+    },
+    {
+      "mes_anyo": "09/2005",
+      "base": 4016.8,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2787.35,
+      "indice_revalorizacion": 1.4410825
+    },
+    {
+      "mes_anyo": "08/2005",
+      "base": 3871.21,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2669.92,
+      "indice_revalorizacion": 1.449934
+    },
+    {
+      "mes_anyo": "07/2005",
+      "base": 4019.25,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2759.89,
+      "indice_revalorizacion": 1.4563074
+    },
+    {
+      "mes_anyo": "06/2005",
+      "base": 4072.11,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2813.4,
+      "indice_revalorizacion": 1.4473966
+    },
+    {
+      "mes_anyo": "05/2005",
+      "base": 3978.75,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2742.51,
+      "indice_revalorizacion": 1.4507695
+    },
+    {
+      "mes_anyo": "04/2005",
+      "base": 3965.02,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2727.83,
+      "indice_revalorizacion": 1.4535425
+    },
+    {
+      "mes_anyo": "03/2005",
+      "base": 4148.31,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2813.4,
+      "indice_revalorizacion": 1.4744814
+    },
+    {
+      "mes_anyo": "02/2005",
+      "base": 4162.98,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2801.2,
+      "indice_revalorizacion": 1.4861429
+    },
+    {
+      "mes_anyo": "01/2005",
+      "base": 4086.32,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2742.51,
+      "indice_revalorizacion": 1.4899928
+    },
+    {
+      "mes_anyo": "12/2004",
+      "base": 3831.04,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2593.02,
+      "indice_revalorizacion": 1.4774422
+    },
+    {
+      "mes_anyo": "11/2004",
+      "base": 3991.31,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2704.14,
+      "indice_revalorizacion": 1.4759988
+    },
+    {
+      "mes_anyo": "10/2004",
+      "base": 3983.69,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.23,
+      "indice_revalorizacion": 1.4796996
+    },
+    {
+      "mes_anyo": "09/2004",
+      "base": 4024.63,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2692.23,
+      "indice_revalorizacion": 1.4949073
+    },
+    {
+      "mes_anyo": "08/2004",
+      "base": 3946.92,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2635.54,
+      "indice_revalorizacion": 1.4975747
+    },
+    {
+      "mes_anyo": "07/2004",
+      "base": 4007.01,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2663.89,
+      "indice_revalorizacion": 1.5041949
+    },
+    {
+      "mes_anyo": "06/2004",
+      "base": 3997.76,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2678.06,
+      "indice_revalorizacion": 1.4927803
+    },
+    {
+      "mes_anyo": "05/2004",
+      "base": 4046.46,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2706.4,
+      "indice_revalorizacion": 1.495144
+    },
+    {
+      "mes_anyo": "04/2004",
+      "base": 4108.05,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2731.5,
+      "indice_revalorizacion": 1.5039554
+    },
+    {
+      "mes_anyo": "03/2004",
+      "base": 4018.01,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2635.53,
+      "indice_revalorizacion": 1.5245553
+    },
+    {
+      "mes_anyo": "02/2004",
+      "base": 4154.85,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2706.4,
+      "indice_revalorizacion": 1.5351931
+    },
+    {
+      "mes_anyo": "01/2004",
+      "base": 4113.22,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2678.05,
+      "indice_revalorizacion": 1.5359006
+    },
+    {
+      "mes_anyo": "12/2003",
+      "base": 3783.83,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2480.99,
+      "indice_revalorizacion": 1.5251298
+    },
+    {
+      "mes_anyo": "11/2003",
+      "base": 3980.24,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2605.31,
+      "indice_revalorizacion": 1.5277414
+    },
+    {
+      "mes_anyo": "10/2003",
+      "base": 4064.78,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2652,
+      "indice_revalorizacion": 1.5327219
+    },
+    {
+      "mes_anyo": "09/2003",
+      "base": 3923.77,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2542.86,
+      "indice_revalorizacion": 1.543054
+    },
+    {
+      "mes_anyo": "08/2003",
+      "base": 3935.45,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2542.86,
+      "indice_revalorizacion": 1.5476486
+    },
+    {
+      "mes_anyo": "07/2003",
+      "base": 4079.03,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2623.57,
+      "indice_revalorizacion": 1.5547627
+    },
+    {
+      "mes_anyo": "06/2003",
+      "base": 3907.89,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2529.36,
+      "indice_revalorizacion": 1.5450107
+    },
+    {
+      "mes_anyo": "05/2003",
+      "base": 3995.46,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2584.31,
+      "indice_revalorizacion": 1.5460437
+    },
+    {
+      "mes_anyo": "04/2003",
+      "base": 4012.98,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2598.05,
+      "indice_revalorizacion": 1.5446106
+    },
+    {
+      "mes_anyo": "03/2003",
+      "base": 3839.17,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2465.47,
+      "indice_revalorizacion": 1.5571772
+    },
+    {
+      "mes_anyo": "02/2003",
+      "base": 4095.07,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2611.7,
+      "indice_revalorizacion": 1.5679729
+    },
+    {
+      "mes_anyo": "01/2003",
+      "base": 4167.09,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2652,
+      "indice_revalorizacion": 1.5712998
+    },
+    {
+      "mes_anyo": "12/2002",
+      "base": 3924.49,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2507.93,
+      "indice_revalorizacion": 1.5648331
+    },
+    {
+      "mes_anyo": "11/2002",
+      "base": 3857.83,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2457.16,
+      "indice_revalorizacion": 1.5700369
+    },
+    {
+      "mes_anyo": "10/2002",
+      "base": 3926.06,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2496.77,
+      "indice_revalorizacion": 1.5724555
+    },
+    {
+      "mes_anyo": "09/2002",
+      "base": 3860.14,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2430.76,
+      "indice_revalorizacion": 1.5880366
+    },
+    {
+      "mes_anyo": "08/2002",
+      "base": 4104.34,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2574.9,
+      "indice_revalorizacion": 1.593979
+    },
+    {
+      "mes_anyo": "07/2002",
+      "base": 3948.92,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2470.32,
+      "indice_revalorizacion": 1.598544
+    },
+    {
+      "mes_anyo": "06/2002",
+      "base": 3599.89,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2267.71,
+      "indice_revalorizacion": 1.5874581
+    },
+    {
+      "mes_anyo": "05/2002",
+      "base": 3921.69,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2470.32,
+      "indice_revalorizacion": 1.5875248
+    },
+    {
+      "mes_anyo": "04/2002",
+      "base": 3900.7,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2448.28,
+      "indice_revalorizacion": 1.5932394
+    },
+    {
+      "mes_anyo": "03/2002",
+      "base": 4141.79,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2564.77,
+      "indice_revalorizacion": 1.6148792
+    },
+    {
+      "mes_anyo": "02/2002",
+      "base": 4097.93,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2516.81,
+      "indice_revalorizacion": 1.6282224
+    },
+    {
+      "mes_anyo": "01/2002",
+      "base": 3968.26,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2435.07,
+      "indice_revalorizacion": 1.6296274
+    },
+    {
+      "mes_anyo": "12/2001",
+      "base": 3893.45,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2380.37,
+      "indice_revalorizacion": 1.6356497
+    },
+    {
+      "mes_anyo": "11/2001",
+      "base": 3833.72,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2335.39,
+      "indice_revalorizacion": 1.6415739
+    },
+    {
+      "mes_anyo": "10/2001",
+      "base": 3809.84,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2322.56,
+      "indice_revalorizacion": 1.6403619
+    },
+    {
+      "mes_anyo": "09/2001",
+      "base": 3885.99,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2371.45,
+      "indice_revalorizacion": 1.6386538
+    },
+    {
+      "mes_anyo": "08/2001",
+      "base": 3900.09,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2380.37,
+      "indice_revalorizacion": 1.6384406
+    },
+    {
+      "mes_anyo": "07/2001",
+      "base": 3827.37,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2330.34,
+      "indice_revalorizacion": 1.6424067
+    },
+    {
+      "mes_anyo": "06/2001",
+      "base": 3836.71,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2330.34,
+      "indice_revalorizacion": 1.646416
+    },
+    {
+      "mes_anyo": "05/2001",
+      "base": 3909.26,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2366.4,
+      "indice_revalorizacion": 1.651985
+    },
+    {
+      "mes_anyo": "04/2001",
+      "base": 3947.18,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2380.37,
+      "indice_revalorizacion": 1.6582224
+    },
+    {
+      "mes_anyo": "03/2001",
+      "base": 3944.39,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2366.4,
+      "indice_revalorizacion": 1.6668333
+    },
+    {
+      "mes_anyo": "02/2001",
+      "base": 3900.64,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2330.34,
+      "indice_revalorizacion": 1.673851
+    },
+    {
+      "mes_anyo": "01/2001",
+      "base": 3997.49,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2380.37,
+      "indice_revalorizacion": 1.6793585
+    },
+    {
+      "mes_anyo": "12/2000",
+      "base": 3702.61,
+      "empresa": "PROCTER & GAMBLE MATARO S.L.",
+      "regimen": "GENERAL",
+      "periodo": "revalorizado",
+      "base_original": 2203.99,
+      "indice_revalorizacion": 1.6799561
+    }
+  ],
+  "estadisticas": {
+    "total_bases": 302,
+    "bases_revalorizadas": 278,
+    "bases_no_revalorizadas": 24,
+    "suma_periodo_revalorizado": 560592.92,
+    "suma_periodo_no_revalorizado": 39690,
+    "suma_total": 600282.92,
+    "base_reguladora": 1703.75
+  },
+  "calculo_elegido": "reforma_rd2_2023",
+  "comparativa_calculos": {
+    "calculo_reforma_rd2_2023": {
+      "parametros": {
+        "bases_incluidas": 302,
+        "divisor": 352.33,
+        "periodo_meses": 304
+      },
+      "estadisticas": {
+        "total_bases": 302,
+        "bases_revalorizadas": 278,
+        "bases_no_revalorizadas": 24,
+        "suma_periodo_revalorizado": 560592.92,
+        "suma_periodo_no_revalorizado": 39690,
+        "suma_total": 600282.92,
+        "base_reguladora": 1703.75
+      },
+      "total_bases": 302
+    },
+    "calculo_prereforma": {
+      "parametros": {
+        "bases_incluidas": 300,
+        "divisor": 350,
+        "periodo_meses": 300
+      },
+      "estadisticas": {
+        "total_bases": 300,
+        "bases_revalorizadas": 276,
+        "bases_no_revalorizadas": 24,
+        "suma_periodo_revalorizado": 552892.82,
+        "suma_periodo_no_revalorizado": 39690,
+        "suma_total": 592582.82,
+        "base_reguladora": 1693.09
+      },
+      "total_bases": 300
+    }
+  },
+  "parametros_computo": {
+    "bases_incluidas": 302,
+    "periodo_meses": 304,
+    "divisor_base_reguladora": 352.33
+  },
+  "fecha_jubilacion": "02/2026",
+  "regimen_acceso": "GENERAL",
+  "sexo": "MASCULINO",
+  "metadata_extraccion": {
+    "filename": "bases1.pdf",
+    "file_size": 390553,
+    "total_bases_extraidas": 397,
+    "total_empresas": 10,
+    "periodo_extraido": {
+      "desde": "01/1984",
+      "hasta": "12/2023"
+    }
+  }
+}
